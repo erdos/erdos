@@ -1,6 +1,6 @@
-Hi, this is the personal account of *János Erdős* _(air-doe-sh)_, a software engineer based in Budapest. This is my personal GitHub account, where I share open-source projects on topics that fascinate me: functional programming, data structures, geometry, etc.
+Hi, this is the personal account of *János Erdős* _(air-doe-sh)_, a software engineer based in Budapest. Here I share open-source projects on topics that fascinate me: functional programming, data structures, geometry, etc.
 
-If you have any questions or feedback, free to contact me on [LinkedIn](https://linkedin.com/in/erdosjr). You can also check my personal [blog posts](https://erdos.dev) for more insights. Here I want to highlight the following projects:
+If you have any questions or feedback, free to contact me on [LinkedIn](https://linkedin.com/in/erdosjr). You can also check my [blog posts](https://erdos.dev) for more insights. Here I want to highlight the following projects:
 
 - [Stencil](https://github.com/erdos/stencil), the OOXML templating engine written in Clojure
 - Small language syntax tools, such as an implementation of [Power Assertions](https://github.com/erdos/erdos.assert) and [lazy generators](https://github.com/erdos/erdos.yield)
